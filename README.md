@@ -215,7 +215,7 @@ TVBot
 联系我们
 遇到问题？我们有多种支持渠道：
 📖 知识库：(https://tvbot.cc/user/guide) - 常见问题解答
-💬 Telegram：@tvbotcc- 实时在线支持
+💬 Telegram：@tvbotcc    实时在线支持
 📧 邮箱：whyhg75@gmail.com
 
 
